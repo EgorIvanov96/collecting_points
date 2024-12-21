@@ -49,11 +49,13 @@ Collecting Points Bot — это Telegram-бот, разработанный с 
 
 ### Запуск
 Для запуска бота используйте следующую команду:
+
     ```
     python app.py
     ```
 
 Если вы используете Docker, вы можете запустить бота с помощью Docker Compose:
+
     ```
     docker-compose up --build
     ```
